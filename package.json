@@ -1,0 +1,15 @@
+{
+  "name": "server-base-nodejs",
+  "version": "1.0.0",
+  "description": "Obter o status de conexao do asterisk e com o banco de dados remoto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Firmino Lemos",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "pg": "^7.12.1"
+  }
+}
