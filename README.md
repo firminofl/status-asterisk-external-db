@@ -1,6 +1,6 @@
 # Verify the status of the system (Asterisk and External Database)
 ## Topics
-+ [Informations](#nformations)
++ [Informations](#informations)
 + [Technologies](#technologies)
 + [Setup](#setup)
 + [Contact](#contact)
