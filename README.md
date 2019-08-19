@@ -1,4 +1,4 @@
-# Verify the status of the system (Asterisk and External Database)
+# Status of the system (Asterisk and External Database)
 ## Topics
 + [Informations](#informations)
 + [Technologies](#technologies)
